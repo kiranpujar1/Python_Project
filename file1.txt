@@ -1,1 +1,17 @@
-
+list
+dirs
+date
+time
+time -hours
+time -mins
+time -secs
+copy_file sample.txt copy.txt
+list
+remove_file copy.txt
+empty_file sample.txt
+ipconfig
+pwd
+cat sample.txt
+head -5 sample.txt
+tail -5 sample.txt
+exit
